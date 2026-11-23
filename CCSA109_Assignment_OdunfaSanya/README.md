@@ -25,5 +25,5 @@ Application Control and URL Filtering provide complementary controls within the 
 
 **Odunfa Sanya Samuel**  
 Registration No.: **C11/26/CCSA/17029**  
-Course: **CCSA109 - Check Point Security Administration**  
+Course: **CCSA109 - Application Control and URL Filtering**  
 Module: **9**
